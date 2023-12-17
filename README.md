@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="Profile views" src="https://camo.githubusercontent.com/7515f17c1ac3d082577bec87a20ea91a90493e4e7f2e6442a24f4d7af6cb6023/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6963686f6c6563686f77267374796c653d666c61742d73717561726526636f6c6f723d626c756576696f6c6574" data-canonical-src="https://komarev.com/ghpvc/?username=nicholechow&amp;style=flat-square&amp;color=blueviolet" style="max-width: 100%;">
+
 <!--
 **jeff4121336/jeff4121336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
